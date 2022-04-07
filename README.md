@@ -1,5 +1,5 @@
 # Tableau
-[RFM Customer Segmentation](https://public.tableau.com/views/RFMCustomerSegmentation_16457649669220/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
+1. [RFM Customer Segmentation](https://public.tableau.com/views/RFMCustomerSegmentation_16457649669220/1?:language=ko-KR&:display_count=n&:origin=viz_share_link)
 
 ![image](https://user-images.githubusercontent.com/89775352/162190302-547293bd-4a77-471b-94c4-8cf730257cce.png)
 
@@ -21,3 +21,6 @@
         고객 이탈율을 최소화할 수 있는 아이디어를 도출할 수 있다 .
 
 Data: sample superstore data 
+
+2. [Retention Analysis](https://public.tableau.com/app/profile/.43405781/viz/RetentionAnalysis_16493418461020/1_1)
+![image](https://user-images.githubusercontent.com/89775352/162223963-7f462259-3a52-421c-bc45-3944d42e9584.png)
